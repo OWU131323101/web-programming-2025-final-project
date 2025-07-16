@@ -1,0 +1,7 @@
+streamlit
+pandas
+re
+json
+os
+google-generativeai
+GEMINI_API_KEY = "AIzaSyAjfZCVGo3ZKtgU14rCq1aChhSBaQoGg7U"
